@@ -1,0 +1,5 @@
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Physical.Communication\bin\Debug\Calculon.Physical.Communication.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Physical.Communication\bin\Debug\Calculon.Physical.Communication.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Physical.Communication\obj\Debug\Calculon.Physical.Communication.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Physical.Communication\obj\Debug\Calculon.Physical.Communication.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Physical.Communication\obj\Debug\Calculon.Physical.Communication.csprojResolveAssemblyReference.cache

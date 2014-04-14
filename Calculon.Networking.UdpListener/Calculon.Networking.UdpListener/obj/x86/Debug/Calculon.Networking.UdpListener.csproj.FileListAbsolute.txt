@@ -1,0 +1,7 @@
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.Networking.UdpListener\Calculon.Networking.UdpListener\obj\x86\Debug\Calculon.Networking.UdpListener.Listener.resources
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.Networking.UdpListener\Calculon.Networking.UdpListener\obj\x86\Debug\Calculon.Networking.UdpListener.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.Networking.UdpListener\Calculon.Networking.UdpListener\obj\x86\Debug\Calculon.Networking.UdpListener.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.Networking.UdpListener\Calculon.Networking.UdpListener\bin\Debug\Calculon.Networking.UdpListener.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.Networking.UdpListener\Calculon.Networking.UdpListener\bin\Debug\Calculon.Networking.UdpListener.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.Networking.UdpListener\Calculon.Networking.UdpListener\obj\x86\Debug\Calculon.Networking.UdpListener.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.Networking.UdpListener\Calculon.Networking.UdpListener\obj\x86\Debug\Calculon.Networking.UdpListener.pdb

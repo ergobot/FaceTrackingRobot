@@ -1,0 +1,5 @@
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.UdpAlerts\bin\Debug\Calculon.Networking.UdpAlerts.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.UdpAlerts\bin\Debug\Calculon.Networking.UdpAlerts.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.UdpAlerts\obj\Debug\Calculon.Networking.UdpAlerts.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.UdpAlerts\obj\Debug\Calculon.Networking.UdpAlerts.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.UdpAlerts\obj\Debug\Calculon.Networking.UdpAlerts.csprojResolveAssemblyReference.cache

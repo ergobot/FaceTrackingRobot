@@ -1,0 +1,4 @@
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.Stream.Video\bin\Debug\Calculon.Networking.Stream.Video.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.Stream.Video\bin\Debug\Calculon.Networking.Stream.Video.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.Stream.Video\obj\Debug\Calculon.Networking.Stream.Video.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\Calculon.Networking.Stream.Video\obj\Debug\Calculon.Networking.Stream.Video.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld2\bin\Debug\HelloWorld2.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld2\obj\x86\Debug\HelloWorld2.Form1.resources
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld2\obj\x86\Debug\HelloWorld2.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld2\obj\x86\Debug\HelloWorld2.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld2\obj\x86\Debug\HelloWorld2.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld2\obj\x86\Debug\HelloWorld2.pdb

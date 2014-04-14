@@ -1,0 +1,13 @@
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\bin\Debug\Emgu.CV.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\bin\Debug\Emgu.Util.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\obj\x86\Debug\HelloWorld.Form1.resources
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\obj\x86\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\obj\x86\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\Calculon.FaceDetector\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
